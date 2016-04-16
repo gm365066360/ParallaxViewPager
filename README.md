@@ -26,7 +26,7 @@
 
 ![](./gifAndapk/cc.gif) 
 ### apk 
-* [This is apk](./gifAndapk/parallax.apk "apk")
+* [This is apk](./gifAndapk/parallaxViewPager.apk "apk")
 * [This is also(apk)](http://fir.im/6vxd "apk")
 
 ### Star
