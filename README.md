@@ -12,12 +12,13 @@
 * Because of this strange Demo strong, so I did not wrap it up, only three key classes, so, download it and change it as they wish!
 
 ### screen shot 截屏
-![](./gifAndapk/parallax.jpg) 
+![](./gifAndapk/dd.jpg) 
 ### gif 动态图
 * 注意程序刚启动时向左滑动一段距离是在代码中控制的:bowtie:
 
-![](./gifAndapk/first.gif)  
-![](./gifAndapk/second.gif)  
+![](./gifAndapk/aa.gif)  
+![](./gifAndapk/bb.gif) 
+![](./gifAndapk/cc.gif) 
 ### apk 
 * [This is apk](./gifAndapk/parallax.apk "apk")
 * [This is also(apk)](http://blog.csdn.net/guodongxiaren "apk")
