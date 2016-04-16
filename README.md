@@ -1,5 +1,5 @@
-![](./app/src/main/res/drawable-xxhdpi/byby.jpg)  
 # ParallaxViewPager
+![](./app/src/main/res/drawable-xxhdpi/byby.jpg)  
 ## Summary 
 * 高仿小米MIUI锁屏主题
 * ParallaxViewPager视差
@@ -15,6 +15,7 @@
 ![](./gifAndapk/parallax.jpg) 
 ### gif 动态图
 * 注意程序刚启动时向左滑动一段距离是在代码中控制的:bowtie:
+
 ![](./gifAndapk/first.gif)  
 ![](./gifAndapk/second.gif)  
 ### apk 
