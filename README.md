@@ -27,7 +27,7 @@
 ![](./gifAndapk/cc.gif) 
 ### apk 
 * [This is apk](./gifAndapk/parallax.apk "apk")
-* [This is also(apk)](http://blog.csdn.net/guodongxiaren "apk")
+* [This is also(apk)](http://fir.im/6vxd "apk")
 
 ### Star
 > 点赞是一种美德!（Thumbs up is a virtue!）
